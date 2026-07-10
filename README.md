@@ -36,7 +36,7 @@ I'm an AI/ML builder who'd rather ship a working agent than debate architecture 
 
 **AI / ML / LLM Orchestration**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/><img src="https://img.shields.io/badge/Tensorflow-1C3C3C?style=for-the-badge"/>
 
 **Backend & Data Validation**
 
