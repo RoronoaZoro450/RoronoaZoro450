@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Niuy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Full-Stack%20Agentic%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Multi-Agent+AI+Systems+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+Streamlit;Turning+LLM+Prototypes+into+Deployed+Products;Currently+Grinding+DSA+for+Internship+Season" /> -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Multi-Agent+AI+Systems+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+Streamlit;Turning+LLM+Prototypes+into+Deployed+Products;Currently+Grinding+DSA+for+Internship+Season" /> 
 
 </div>
 
