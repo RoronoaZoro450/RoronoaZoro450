@@ -8,13 +8,10 @@
 -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Niuy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Full-Stack%20Agentic%20Systems&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Multi-Agent+AI+Systems+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+Streamlit;Turning+LLM+Prototypes+into+Deployed+Products;Currently+Grinding+DSA+for+Internship+Season" /> 
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Multi-Agent+AI+Systems+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+Streamlit;Turning+LLM+Prototypes+into+Deployed+Products;Currently+Grinding+DSA+for+Internship+Season" />
+<img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-brightgreen?style=for-the-badge"/>
 </div>
-
 <br/>
 
 ## 🚀 About Me
@@ -26,7 +23,8 @@ I'm an AI/ML builder who'd rather ship a working agent than debate architecture 
 - 🎯 Actively prepping for **AI/ML internship applications**
 - ⚙️ I care about the stuff around the model as much as the model — Docker, real backends, real observability, not just notebooks
 - 💬 Ask me about multi-agent orchestration, RAG pipelines, or LLM observability
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at "nirbhayshegale@gmail.com"
+- 📫 LinkedIn - www.linkedin.com/in/nirbhay-shegale-07b0463a2
 
 <br/>
 
