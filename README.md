@@ -13,8 +13,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Multi-Agent+AI+Systems+Engineer;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+Streamlit;Turning+LLM+Prototypes+into+Deployed+Products;Currently+Grinding+DSA+for+Internship+Season" />
 
-<img src="https://img.shields.io/badge/Open%20to-Internship%20Opportunities-brightgreen?style=for-the-badge"/>
-
 </div>
 
 <br/>
@@ -40,7 +38,7 @@ I'm an AI/ML builder who'd rather ship a working agent than debate architecture 
 
 **AI / ML / LLM Orchestration**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangSmith-A855F7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 **Backend & Data Validation**
 
