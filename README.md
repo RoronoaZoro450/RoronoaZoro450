@@ -18,7 +18,6 @@
 I'm an AI/ML builder who'd rather ship a working agent than debate architecture in a notebook. Here's what that looks like in practice:
 
 - 🔭 Currently deep in **AlphaLens** — a multi-agent AI stock research system
-- 🌱 Grinding **DSA** (NeetCode 150 / Blind 75) — arrays, strings, linked lists & stacks
 - 🎯 Actively prepping for **AI/ML internship applications**
 - ⚙️ I care about the stuff around the model as much as the model — Docker, real backends, real observability, not just notebooks
 - 💬 Ask me about multi-agent orchestration, RAG pipelines, or LLM observability
